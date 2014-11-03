@@ -1,0 +1,164 @@
+things that could use viz
+
+- flocking, swarming, active matter
+
+- colloidal physics
+
+- graph-theoretic diameter of random cluster models
+
+- packing of polygons on compact geometries
+
+- computational complexity
+
+- biophysics
+
+--- add digital labor to the mix
+
+- add notes on coqui, links on riffle
+
+- eieio
+digital labor
+collective
+focus on sustainable tech
+finding novels ways of assigning resources
+cooperative, non-competitive practices
+local production as much as possible -- jobs, environment
+open source, no IP
+model based on labor, with intention of sustaining it
+- working with parts and crafts, pirateship, farmhack, and others on these issues -- creating sustainable infrastructure for these communities
+- do outreach with scientists -- view them as knowledge workers
+- connections with science for the people movement
+
+- open pipe kit
+
+
+
+-- parts and crafts
+- talk about their relation to public lab, and interest in open water.  the diy aesthetic is shared in common. aerial mapping. a laboratory. family hackerspace idea.
+
+-- farmhack
+ongoing conversation with farmhack members about relationship between env monitoring and land use management.  exciting collaboration because farmers are interested in 'solving the problem', not just monitoring / accountability -- soil as a biological machine that can solve water quality issues and produce food.  
+- attending meetups regularly
+- channeling resources from medium-scale agriculture to DIY tech developers, make open source projects that are good generally
+- work on FIDO, Open Pipe Kit, and other accessible platforms
+- use of Riffle approach 
+
+-- public lab fellow
+- critiques of citizen science approaches
+- thinking critically about public lab as an organization, long term view
+- white papers and chapters, reflections
+- participate in strategic discussions, finding grants
+- help curate technologies and approach
+- seek sustainable models 
+- consistent philosophy
+
+-- public lab organizer
+- meetups in amherst and elsewhere
+- online dialogues
+- facilitating inclusion of 'geeks' with the activists -- straddle that line
+- translation of technologies
+
+-- pioneer valley open science institute
+co-founder
+- grad students from umass physics, computer science, teacher, librarian, school teacher
+- reflection on open source approaches / ethos in science
+- informal 'institute'
+- small DBA for collecting resources
+- development community for public lab and farmhack projects
+- tradition of 'insitute banquets' emerging
+
+-- NCDG
+fellow, 2013-2014
+- workshop on knowledge commons
+- role of institutions in open source movements
+- views on trends in leveraging open source labor -- 'governing the knowledge commons'
+- curation of technologies and tools
+- with charlie shweick, jane fountain
+
+-- umass amherst physics department
+teaching and research assistant
+-- teaching assistantships
+physics labs, tutoring
+-- research assistantships
+with jon machta, menon, muthukumar, neuroscience labs
+
+-- makers at amherst media
+collaborator
+- participated in conversations about form and approach to community science and technology initiatives at amherst media, a organization with deep roots in civic engagement
+- helped organize first maker event
+- helped facilitate connections to others in local maker community
+- worked with Jim Lescault, Charlie Schweick, Steve Brewer, others
+- link to mailing list / website
+
+-- umass open science hardware workshop
+co-organizer
+- focused on open source hardware for lab research
+- X # of presentations, 30 participants
+- connection between local community and public lab
+- recommendations for next steps, creation of a community
+
+-- hack for western mass
+co-organizer
+- hackathon 'local people solving local problems'
+- call out to local orgs for their problems
+- call out to local devs 
+- pitch session
+- generated results, as per poster
+- intended as ongoing, annual event
+
+-- thermal flashlight
+developer
+- initial arduino-based prototype for public lab idea
+
+-- github-based publication
+developer
+with jeff walker
+using RStudio, markdown as model 
+prototyped it with some research notes
+initial conversations with MIT library about modeling the approach
+can include source and data in analysis using standard tools
+enhanced reproducibility, version control
+contributions can be attributed, timestamped
+
+twitter analysis
+developer
+for ict summit, developed processing-based twitter analysis tool
+- useful for generating 'live word cloud' for a topic
+- idea: can click on words to pull up the tweets associated, dive into stats
+- used for backchannel moderation to get a 'pulse' on a conference
+
+infragram
+web development, hardware prototyping
+- prototype for plant health tool using NDVI / near infrared photosynthesis technique
+- hardware prototyping and web platform prototyping
+
+flocking, swarming
+theory, simulation, experiment
+inspired by menon's research
+collective behavior induced by local interactions
+studying aspects of end-shape dependence of density fluctuations, spatial correlations, patterns
+implications for granular materials and biological systems with limited long-range sensing (bacteria)
+
+profession
+artisan's asylum: community education and support for hackery
+parts and crafts: family hackerspaces
+pirateship: local hackerspace with radical leanings
+workshop on knowledge commons -- focused on commons-based approaches to knowledge production
+
+skills:
+- computer
+- cardboard based rapid prototyping
+- french
+- illustration (cartoon, chalkboard)
+- loud, noisy civic engagement via amplified trombones
+
+need to time-order these things!
+
+make sections on main page for various projects
+blotbot and etc
+
+
+
+
+
+

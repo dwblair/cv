@@ -1,0 +1,155 @@
+Conferences
+- physics
+- maker faires I & II
+- Boulder School for Condensed Matter and Materials Physics: Biophysics
+University of Colorado Boulder. July 2 - July 27, 2007.
+
+- Cells and Materials: Systems Biology and Molecular Modeling.
+UCLA Institute for Pure and Applied Mathematics Workshop, May 22 - 26, 2006
+
+Invited Talks
+- EPA Advanced Tech Demo Day
+- http://k12s.phast.umass.edu/digital/
+- Rwanda
+- UNH
+- providence maker faire
+- open source hardware - potentiostat
+- ICT at umass
+- STEM Digital Institute
+- Cells and Materials: Systems Biology and Molecular Modeling.
+UCLA Institute for Pure and Applied Mathematics Workshop, May 22 - 26, 2006.
+
+Current Projects:
+
+- Open Water
+- Riffle
+-- cambridge
+-- infoamazonia
+-- open pipe kit / farmhack
+- Coqui
+-- cambridge open water event (w/ Katie)
+-- audio / echomimimetics
+-- overlap with medical and enviornmental 
+-- florida international university
+-- emerson water quality workshop
+- FarmHack
+-- special advisor on citizen science
+-- Fido and Open Pipe Kit
+-- community development
+- EIEIO
+-- designer and developer
+-- organizing collective around open development
+
+Previous and Ongoing Projects:
+- Open Breastpump
+-- community organizer
+- Open Pipe Kit
+- Infragram
+-- initial web prototype
+- Thermal Flashlight
+-- initial Arduino prototype
+- RStudio Github publication
+-- develop idea with Jeff 
+- Twitter Analysis - backchannel
+-- useful for backchannel and word analysis
+- Potts Model / Ising
+-- graph theory / networks
+- Foams
+-- potts theory of foams (chck talk abstract)
+- Flocking / Granular Materials
+-- effect of end-shape (check aps abstract)
+- Colloidal Physics
+We have performed Brownian dynamics simulations of the sublimation kinetics of colloidal crystallites, and
+have found an abrupt increase in the sublimation rate at a particular crystallite size, elucidating the results of
+recent colloidal experiments. We propose that this crossover in the kinetics is due to the thermally activated
+introduction of a disclination charge leading to large internal stresses that result in a fission event, and a
+break-up of the remaining crystallite. We have also been developing an alternative, droplet-evaporation
+model for the same phenomenon.
+
+- Graph-theoretic Diameter of Random Cluster Models
+We use Swendsen-Wang Monte Carlo simulations in order to measure the scaling behavior of the fractal
+dimension d D of the diameter D of q-state Potts Model clusters, where D is defined in the graph-theoretic
+sense of the “longest shortest path” along bonds in a cluster. We have developed a novel algorithm for
+determining D efficiently, and present results for q = 1, 2, 3, 4 in 2D and 3D lattices. We are attempting to
+relate the scaling exponent for D to other known exponents.
+-- spheres on a sphere
+-- sublimation dynamics
+-- ductile / brittle transition
+
+- Packing of Polygons on Compact Geometries
+We employ analytic and simulated annealing methods to study the packing of squares on a flat torus, and
+have found a rich array of dense packing solutions. Future work will include using the recent population
+annealing algortihm to explore the densest packings of additional shapes in finite and compact geometries.
+-- square on a torus
+-- algorithms for packing
+-- end-shapes
+
+- Computational Complexity
+Motivated both by recent attempts to elucidate the nature of “phase transitions” in computational com-
+plexity, and by the general project of characterizing the complexity physical systems according to their
+”parallel computational depth”, we have explored the parallel computational complexity of the Percolation
+(Potts q = 1) model. We have developed an algorithm for identifying infinite clusters at bond occupation
+probabilities p above the critical value p c , and we have found (via numerical Monte Carlo simulation) a
+phase transition in computational complexity at p c – thus relating a phase transition in computational
+complexity to a structural phase transition.
+
+? 
+- Recoloring algorithm
+-- 
+
+- Biophysics
+-- Bioscillations: I have begun preliminary research into the synchronization of gene expression oscillations in the cells of
+the Mammalian suprachiasmatic nucleus, which regulates Circadian rhythms, through the study of a lattice
+network of Kuramoto oscillators. 
+-- Bacteriophage:  I have also performed Brownian Dynamics simulations of packaging and ejection forces in bacteriophage.
+
+Papers in Preparation:
+- Packing -- Arrested of coalescence of emulsion droplets of arbitrary size
+
+Badel L. Mbanga,1, ∗ Christopher Burke,1 Donald W. Blair,2 and Timothy J. Atherton1
+
+1Department of physics and astronomy, Tufts University, Medford, MA 02155
+
+2Department of physics, University of Massachusetts, Amherst, MA 01003
+
+
+
+- Moumita Das, Donald W. Blair and Alex Levine, Cracks, Meltdowns and Crossover Sizes: An abrupt
+change in sublimation kinetics associated with the thermally-activated introduction of disclination charge in
+crystallites.
+
+Grants awarded:
+- Peter de Florez '38 Humor Fund Committee for the Babbling Brook Project at MIT
+An offshoot of this public engagement goal has been The Babbling Brook project. As we discussed ways to engage people, particularly young people and those unfamiliar with water science, we came up with the idea for a networked talking flower that would rise up out of the water and tell very bad jokes to everyone who passed by. The Babbling Brook (so titled because our alpha version was placed in a brook) is a large, red, networked flower sculpture that monitors water conditions in the body of water where it is placed, combines that data with current weather conditions, and proceeds to tell very bad jokes in a Text-to-Speech robot voice about that data. 
+- Propeller Social Venture Water Fellowship, Sept 3, 2014
+
+
+- in preparation: 
+NSF 13-608 
+Advancing Informal STEM Learning (AISL) Goals:
+environmental storytelling institute
+Emerson College, Plymouth State University, and the Public Laboratory for Technology & Science in partnership with the MIT Center for Civic Media and the Future of News Initiative at the MIT Media Lab are creating an Environmental Storytelling Institute - a year-long series of hands-on workshops around environmental research and storytelling. 
+
+
+not awarded:
+Recently submitted Proposal:  1442846
+Title:  CYBERSEES: TYPE 1: DESIGNING A GLOBAL-TO-LOCAL, REPLICABLE, OPEN-SOURCE SCIENCE AND ENGINEERING NETWORK IN SUPPORT OF COMMUNITY-BASED ENVIRONMENTAL MONITORING
+
+
+Awards
+- Breast Pump Hackathon.  http://challengepost.com/software/mighty-mom-utility-belt
+
+Skills
+- Languages: C, Python, C++, Fortran
+Libraries:  pylab, scipy
+Software: Matlab, Octave, Mathematica, MayaVi, Processing
+Techniques: Monte Carlo for spin systems and hard particle systems; molecular dynamics
+Hardware: Arduino open-source hardware interface
+- open hardware design / eagle
+
+
+
+
+
+
+
